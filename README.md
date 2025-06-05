@@ -1,1 +1,0 @@
-# Mangalyze_Model
