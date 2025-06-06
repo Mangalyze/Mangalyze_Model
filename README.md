@@ -27,7 +27,7 @@ Dataset yang digunakan adalah **[Mango Leaf Disease Dataset](https://www.kaggle.
   - Sisanya dihasilkan melalui **augmentasi** (zoom dan rotasi)
 - **Jumlah kelas:** 8 kelas
   - 7 jenis penyakit (Anthracnose, Bacterial Canker, Cutting Weevil, Die Back, Gall Midge, Powdery Mildew, dan Sooty Mould)
-  - 1 kelas daun sehat (healthy)
+  - 1 kelas daun sehat (Healthy)
  
 ## Model Development
 
