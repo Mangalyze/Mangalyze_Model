@@ -11,10 +11,15 @@ Proyek ini bertujuan untuk mengembangkan Mango Leaf Analyze (MANGALYZE), sebuah 
 4. A312XBF453 – Sevyra Nanda Octavianti – Universitas Sebelas Maret
 
 ## Repositori Pendukung
-| Team               | Link Repository                                                         |
-|--------------------|-------------------------------------------------------------------------|
-| Web Development    | [Mangalyze-Website](https://github.com/Mangalyze/Website_Mangalyze.git) |               
-| Machine Learning   | **(Repositori ini)**                                                    |
+
+| Komponen         | Link                                                                       |
+| ---------------- | -------------------------------------------------------------------------- |
+| Docker Container | [Docker Hub – Mangalyze](https://hub.docker.com/r/rmdlaska11/mangalyze) |
+
+| Komponen         | Link Repository                                                         |
+| ---------------- | ----------------------------------------------------------------------- |
+| Web Development  | [Mangalyze Website](https://github.com/Mangalyze/Website_Mangalyze.git) |
+| Machine Learning | **(Repositori ini)**                                                    |
 
 ## Tentang Dataset
 
@@ -59,4 +64,5 @@ Proses pembangunan model dilakukan dalam beberapa tahap berikut:
    - Visualisasi prediksi dan kurva akurasi/loss
 
 7. **Penyimpanan Model**
-   - Model terbaik disimpan dalam format `.keras` di folder `/models`
+   - Model terbaik disimpan dalam format `.keras` di folder `/model`
+  
